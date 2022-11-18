@@ -10,7 +10,7 @@
 |         4|  Micro Metal Gear Motor            |Motoren 50:1            | Nieuw         |  €7,49            |2      |  €25,97       |
 |         5| QTR-8A             | Sensoren           |  Nieuw         | €11,91             |1      | €37,89        |
 |         6| Wielen             |   32mm*7mm         |  Nieuw         | €2,16             | 2     | €42,21        |
-|         7|  Li-ion 18650            | Batterijen            | Nieuw          |  €3            | 2     | €48,21        |
+|         7|  Li-ion 18650            | Batterijen- 2250mAh           | Nieuw          |  €3            | 2     | €48,21        |
 |         8|  Batterijhouder            | Serie           |Nieuw           | €1,75             | 1     | €49,96        |
 |         9|   Switch ON-ON            |  Dubbelpolig 6A-125V          | Nieuw          |  €1,95            | 1     |  €51,91       |
 |         10|  Female/Male headers            | 20 pin           | Nieuw          | €0,32           | 3     | €53,41        |
