@@ -3,8 +3,8 @@
 
 <br />
 <br />
-[![Uploading image.png…]()
-]
+[]
+
 <br />
 <br />
   
