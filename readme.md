@@ -9,21 +9,21 @@ lege repository die je als template kan gebruiken om een eigen repository te sta
   
 ## specifications
 <br />
-microcontroller:
+microcontroller: Arduino nano ATmega 328
 <br />
-motors: 
+motors: Micro Metal Gear motors (6V, 50:1)
 <br />
-h-bridge:
+h-bridge: DRV8833 
 <br />
-sensors:
+sensors: QTR-8A
 <br />
-batteries:
+batteries: Li-ion 18650 (Inom= 3,7V)
 <br />
-wireless communication:
+wireless communication: HC-05
 <br />
-distance sensor - motors:
+distance sensor - motors: 12 cm
 <br />
-weight:
+weight:280 gram
 <br />
-speed: 
+speed: 0,8 m/s
 <br />
